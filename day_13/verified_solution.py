@@ -1,3 +1,6 @@
+# posted by u/aaegic in the reddit solution megathread
+# used to verify the ordered indices and compare against the result of my solution
+
 import sys
 from itertools import zip_longest
 
